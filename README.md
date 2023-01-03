@@ -1,2 +1,4 @@
 # MERN-practice
- some practice
+
+frontend:react.js+node.js
+backend:mongoDB+express
